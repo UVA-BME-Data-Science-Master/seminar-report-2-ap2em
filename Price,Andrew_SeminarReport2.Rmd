@@ -1,0 +1,33 @@
+---
+title: "Price_Andrew_Seminar_Report_2"
+author: "Andrew Price"
+date: "November 12, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Name: Andrew Price
+Speaker: Ali D Guler, Associate Professor, University of Virginia Biology
+Date: 11/7/2018 
+Title: “Food, time and dopamine: How rewarding snacks hijack your brain”
+Summary:
+
+The main theme of this talk was how dopamine, which in these experiments was stimulated by snacks and cocaine, affects circadian rhythm of mice. The circadian rhythm is how the light/dark cycle affects activity. Mice are nocturnal, so during the day they sleep and at night is when they run. The way of measuring mice activity with regard to circadian rhythm is the amount and the time in which the mice run on their wheel. When mice are taken from their home in America to Amsterdam, the photoentrainment of mice’s circadian rhythm allows them to adapt to the new light-dark cycle over the course of a few days, showing the power of the light-dark cycle over animal activity. In the same experiment, mice with inhibited photosensitive retinal ganglion cells, the part of the brain that controls photoentrainment, are unable to adapt to the new light-dark cycle and their cycle repeats every 23 hours, the natural cycle of mice. The retinal ganglion cells are attached to the Suprachiasmatic nucleus (SCN), which controls the circadian rhythm. In addition, the SCN has increased activity as a response to dopamine, connecting the circadian rhythm with dopamine-inducing events such as eating snacks or doing cocaine. 
+
+
+In these experiments, the SCN neuronal activity was increased by inducing an increase in dopamine by feeding the mice capsaicin. This increased SCN activity caused an increase in the expression of Drd1, which encodes a dopamine receptor. This activation of SCN and Drd1 mimics the phase response of mice to light. It was found that if you applied a drug that increased these activations as soon as the mice started running, there was a shift in the activity cycle of the mice, showing it has the same effect as changing the light-dark cycle. In follow-up experiments, it was also found that Drd1 was almost essential to causing this shift in activity cycle and without it, it took much longer for the activity cycle shift to occur. 
+
+
+The second portion of the talk was focused more on how eating in general causes the dopamine release and has helped play a part in the obesity epidemic. There are two reasons for obesity: hedonic overeating and homeostatic dysregulation. These two are interconnected and cause a change in your desire to eat and your metabolism. In experiments, it was found that if Drd-1 was knocked-out in mice then the mice were resistant to diet-induced obesity. This is because the mice do not get the “reward” from dopamine release when they eat, meaning they will only eat when they need the calories, not for any type of enjoyment. On the other hand, it was found that by increasing Drd-1 and SCN activity, hedonic overeating occurs, eventually causing obesity. By introducing a Drd1 agonist, the output of SCN was decreased and obesity was also decreased. The results of these experiments show the potential for targeting and reducing SCN as a way to reduce the amount animals eat because it lowers the enjoyment received from eating. In clinical trials, reducing SCN has had substantial results with decreasing obesity, but has also caused depression and suicidal thoughts so more work needs to be completed to find a drug that avoids these effects, but the potential for reducing SCN seems strong.
+
+
+Questions:
+
+1) Does the system of interplay between hedonic completion of an activity and homeostatic dysregulation affect other dopamine-releasing events other than food?
+
+2) Would it be possible to increase/decrease the expression of other hormones released when food is consumed and achieve the same effect or is dopamine essentially the only major hormone involved?
+
+
